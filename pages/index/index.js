@@ -6,6 +6,7 @@ Page({
   /**
    * 页面的初始数据
    */
+  test(){},
   data: {
     res_list:[],
     res_car_id:0
